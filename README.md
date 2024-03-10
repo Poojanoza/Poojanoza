@@ -8,5 +8,6 @@
 - 🌱 I’m currently learning **php,react**
 
 - 💬 Ask me about **typescrip,javascript,figma**
+- My First E-Commerce Project comming soon in april 2024 full code
 
 
