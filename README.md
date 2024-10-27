@@ -40,7 +40,7 @@ I'm a passionate **Software Developer** and **Full-Stack Web Developer** from In
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Poojan's LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/poojan-oza-b08775248/)
+- **LinkedIn:** [Poojan's LinkedIn](https://www.linkedin.com/in/poojan-oza-b08775248)
 - **GitHub:** [Poojan's GitHub](https://github.com/Poojanoza)
 
 ---
